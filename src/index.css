@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.homepage {
+  background-image: url("./assets/bg-home-1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
