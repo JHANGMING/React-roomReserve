@@ -1,7 +1,7 @@
-import Home from "./pages/Home";
+import ReserveHint from "./components/ReserveHint";
 
 function App() {
-  return <Home></Home>;
+  return <ReserveHint></ReserveHint>;
 }
 
 export default App;
